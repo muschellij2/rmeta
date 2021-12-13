@@ -1,0 +1,13 @@
+^README\.docx$
+^pkgdown$
+^_pkgdown\.yml$
+^docs$
+^CRAN-RELEASE$
+^cran-comments\.md$
+^appveyor\.yml$
+^\.travis\.yml$
+^\.Rhistory$
+^README\.Rmd$
+^LICENSE\.md$
+^nsrr\.Rproj$
+^\.Rproj\.user$
