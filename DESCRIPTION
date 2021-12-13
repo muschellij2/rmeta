@@ -32,3 +32,5 @@ VignetteBuilder: knitr
 URL: https://github.com/muschellij2/rmeta
 BugReports: https://github.com/muschellij2/rmeta/issues
 RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)
